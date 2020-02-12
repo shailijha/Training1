@@ -1,1 +1,7 @@
 hhhhhiiii
+fatal: remote origin already exists.
+fatal: remote origin already exists.
+fatal: remote origin already exists.
+fatal: remote origin already exists.
+fatal: remote origin already exists.
+fatal: remote origin already exists.
